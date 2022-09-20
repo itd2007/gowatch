@@ -2,7 +2,7 @@ package summary
 
 import (
 	"github.com/fxnn/gowatch/logentry"
-	"github.com/gemsi/grok"
+	"github.com/vjeantet/grok"
 	"golang.org/x/text/collate"
 	"golang.org/x/text/language"
 	"log"
