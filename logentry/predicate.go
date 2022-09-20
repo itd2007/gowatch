@@ -1,7 +1,7 @@
 package logentry
 
 import (
-	"github.com/fxnn/grok"
+	"github.com/itd2007/grok"
 	"reflect"
 	"strings"
 	"time"

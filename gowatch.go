@@ -3,10 +3,10 @@ package main
 import (
 	"github.com/pborman/getopt"
 	"fmt"
-	"github.com/fxnn/gowatch/config"
-	"github.com/fxnn/gowatch/mapper"
-	"github.com/fxnn/gowatch/parser"
-	"github.com/fxnn/gowatch/summary"
+	"github.com/itd2007/gowatch/config"
+	"github.com/itd2007/gowatch/mapper"
+	"github.com/itd2007/gowatch/parser"
+	"github.com/itd2007/gowatch/summary"
 	"log"
 	"strings"
 )

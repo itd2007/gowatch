@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/fxnn/gowatch/logentry"
+	"github.com/itd2007/gowatch/logentry"
 )
 
 // converts one line into one message, so it doesn't actually parse something

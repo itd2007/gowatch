@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/fxnn/gowatch/logentry"
+	"github.com/itd2007/gowatch/logentry"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

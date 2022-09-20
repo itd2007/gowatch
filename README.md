@@ -2,8 +2,8 @@
 
 gowatch provides configurable logfile analysis for your server. It is able to parse your logfiles and create summaries in formats ready for delivery via E-Mail or Web.
 
-[![Build Status](https://travis-ci.org/fxnn/gowatch.svg)](https://travis-ci.org/fxnn/gowatch)
-[![Go Report Card](http://goreportcard.com/badge/fxnn/gowatch)](http:/goreportcard.com/report/fxnn/gowatch)
+[![Build Status](https://travis-ci.org/itd2007/gowatch.svg)](https://travis-ci.org/itd2007/gowatch)
+[![Go Report Card](http://goreportcard.com/badge/itd2007/gowatch)](http:/goreportcard.com/report/itd2007/gowatch)
 
 ## Installation
 
@@ -12,7 +12,7 @@ The following assumes that your `GOPATH` is set and your `PATH` contains your `$
 if not so, please read the [Code Organization](https://golang.org/doc/code.html#Organization) chapter of the go manual.
 
 ```
-$ go get github.com/fxnn/gowatch
+$ go get github.com/itd2007/gowatch
 $ gowatch
 2015/04/08 19:10:44 No configuration file given. Specify one using `-c /path/to/config.yml`
 ```

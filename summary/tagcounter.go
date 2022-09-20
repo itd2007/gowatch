@@ -1,7 +1,7 @@
 package summary
 
 import (
-	"github.com/fxnn/gowatch/logentry"
+	"github.com/itd2007/gowatch/logentry"
 	"golang.org/x/text/collate"
 	"golang.org/x/text/language"
 	"strconv"

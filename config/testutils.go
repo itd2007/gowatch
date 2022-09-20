@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/fxnn/gowatch/logentry"
-	"github.com/fxnn/gowatch/parser"
+	"github.com/itd2007/gowatch/logentry"
+	"github.com/itd2007/gowatch/parser"
 	"testing"
 )
 

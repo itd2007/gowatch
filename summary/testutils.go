@@ -1,6 +1,6 @@
 package summary
 
-import "github.com/fxnn/gowatch/logentry"
+import "github.com/itd2007/gowatch/logentry"
 
 func givenEntriesWithMessages(messages ...string) <-chan logentry.LogEntry {
 	entries := make(chan logentry.LogEntry, len(messages))

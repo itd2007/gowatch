@@ -1,7 +1,7 @@
 package mapper
 
 import (
-	"github.com/fxnn/gowatch/logentry"
+	"github.com/itd2007/gowatch/logentry"
 )
 
 type Mapper interface {

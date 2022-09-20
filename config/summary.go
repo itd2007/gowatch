@@ -2,7 +2,7 @@ package config
 
 import (
 	"fmt"
-	"github.com/fxnn/gowatch/summary"
+	"github.com/itd2007/gowatch/summary"
 	"log"
 )
 

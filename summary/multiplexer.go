@@ -2,7 +2,7 @@ package summary
 
 import (
 	"bytes"
-	"github.com/fxnn/gowatch/logentry"
+	"github.com/itd2007/gowatch/logentry"
 )
 
 type Multiplexer struct {

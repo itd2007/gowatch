@@ -1,6 +1,6 @@
 package summary
 
-import "github.com/fxnn/gowatch/logentry"
+import "github.com/itd2007/gowatch/logentry"
 
 type Summarizer interface {
 	SummarizeAsync(entries <-chan logentry.LogEntry)
