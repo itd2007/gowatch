@@ -2,7 +2,7 @@ package parser
 
 import (
 	"github.com/fxnn/gowatch/logentry"
-	"github.com/gemsi/grok"
+	"github.com/vjeantet/grok"
 	"log"
 	"time"
 )
