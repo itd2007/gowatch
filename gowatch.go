@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/getopt"
+	"github.com/pborman/getopt"
 	"fmt"
 	"github.com/fxnn/gowatch/config"
 	"github.com/fxnn/gowatch/mapper"
